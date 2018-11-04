@@ -1,0 +1,15 @@
+Outlook;Temperature;Humidity;Wind;Decision
+Sunny;Hot;85;Weak;No
+Sunny;Hot;90;Strong;No
+Overcast;Hot;78;Weak;Yes
+Rain;Mild;96;Weak;Yes
+Rain;Cool;80;Weak;Yes
+Rain;Cool;70;Strong;No
+Overcast;Cool;65;Strong;Yes
+Sunny;Mild;95;Weak;No
+Sunny;Cool;70;Weak;Yes
+Rain;Mild;80;Weak;Yes
+Sunny;Mild;70;Strong;Yes
+Overcast;Mild;90;Strong;Yes
+Overcast;Hot;75;Weak;Yes
+Rain;Mild;80;Strong;No
